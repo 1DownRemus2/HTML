@@ -1,2 +1,0 @@
-# HTML
-My Fullstack Journey
